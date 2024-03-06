@@ -1,0 +1,65 @@
+# Objective.
+
+1. To be able to web-scrape the website.
+    1. Need to scrape this website to scrape all the links of the websites of the schemes.
+
+# Experience
+
+1. Even though it is a old tutorial but I'm still believing it, though.
+    1. Since it is a old tutorial I need to learn it level by level.
+2. Happy that I confirmed that fact that we can interact with the website.
+3. 
+
+# Notes
+
+1. Cannot pass direct path of the exe file 
+    1. Just follow the new tutorial
+    2. Do this 
+    
+    ```python
+    from selenium import webdriver
+    
+    cService = webdriver.ChromeService(executable_path='/Users/[...]binaries(117)/chromedriver')
+    driver = webdriver.Chrome(service = cService)
+    ```
+    
+2. Objective
+    1. To automate the cookie clicker website.
+        1. What should the program do.
+            1. Visit the website.
+            2. find the desired element.
+            3. Click on it.
+            4. see if any of the thing is available.
+                1. if yes then click it.
+                    1. But need to see it how to do it, or else I would never get the one below cursor.
+            5. 
+
+# Learning
+
+1. I knew that and I happened that I cannot follow the old tutorials without facing any issues.
+    1. Like I didn’t knew that I cannot pass direct executatble file path in the webdrive.Chrome(Path)
+2. There have been recent updates in selinium and it really sucks because, I cannot find enough resources.
+3. The concept of hit and trial and not giving up is so much important and prevalant in coding.
+    1. There is no way that I can find that I cannot use selinium and chrome drivers in ipynb file.
+    2. don’t know the error but it doesn’t work.
+4. Now I can go to a website and get any element and click it
+5. I should be able to extract the element.
+6. Learned about waiting.
+    1. It is important cause what if the website is slower than program, in most case it will be the case.
+7. Clicking the link.
+8. Do the cookie clicker by your own and then see the video to see the difference.
+9. While resting I realised that I have to do dsa as well.
+    1. Follow the CP sheet as well for fun though.
+    2. And the main dsa sheet for gaining knowledge.
+        1. Follow, read and see videos of playlist and all.
+        2. But read for sure.
+10. Seriously I just need to breakdown more and more and not quit crying.
+11. Iam so much confused that some time the same code runs fluently and sometimes it doesn’t work.
+12. Done with the project and Iam very much happy with my progress.
+13. Learning after seeeing his cookie clicker.
+    1. I don’t know many of the fuctions and all.
+        1. In this case a basic tutorial will be quite helpful. Or reading articles of projects and all. Seeing how others use it.
+    2. His code is quite optimised.
+        1. I know that I don’t need to write the cleanest code in the first attempt.
+            1. But I do need to optimise the already written code.
+14. The error is due to caching issues.
